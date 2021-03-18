@@ -1,3 +1,5 @@
 Salvar el mundo 2 veces
 Recuperar la piedra filosofal
 Mision 6
+Mision 7
+Mision 8
